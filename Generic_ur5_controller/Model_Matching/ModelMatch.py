@@ -1,4 +1,6 @@
 import numpy as np
+from sklearn.linear_model import LinearRegression
+
 
 #use raw potato data only for this
 def findConstant(k, Rt):

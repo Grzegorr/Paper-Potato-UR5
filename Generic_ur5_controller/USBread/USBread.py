@@ -9,8 +9,9 @@ import matplotlib.pyplot as plt
 #test_name = "fifteen_min_potato"
 #test_name = "twenty_min_potato"
 #test_name = "twentyfive_min_potato"
-test_name = "thirty_min_potato"
-#test_name = "thirtyfive_min_potato"
+#test_name = "30_min_potato"
+#test_name = "35_min_potato"
+test_name = "45_min_potato"
 
 #test_name = "test"
 
