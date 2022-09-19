@@ -1,9 +1,8 @@
 # Sensorized Compliant Robot Gripper for Estimating the Cooking Time of Vegetables
 
-https://youtu.be/2Ea_qF55cx8
 
 ### Click for video:
-[![Subscription Video for the Paper](https://github.com/Grzegorr/Paper-Taste-Mastication/blob/main/README_media/Thumbnail.jpg)](https://www.youtube.com/watch?v=ms78UF4-4cw)
+[![Subscription Video for the Paper](https://github.com/Grzegorr/Paper-Tactile-Feedback-Cooking/tree/master/README_media/Thumbnail.jpg)](https://youtu.be/2Ea_qF55cx8)
 
 
 
