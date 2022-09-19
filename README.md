@@ -2,7 +2,7 @@
 
 
 ### Click for video:
-[![Subscription Video for the Paper](https://github.com/Grzegorr/Paper-Tactile-Feedback-Cooking/tree/master/README_media/Thumbnail.jpg)](https://youtu.be/2Ea_qF55cx8)
+[![Subscription Video for the Paper](https://github.com/Grzegorr/Paper-Tactile-Feedback-Cooking/blob/master/README_media/Thumbnail.jpg)](https://youtu.be/2Ea_qF55cx8)
 
 
 
